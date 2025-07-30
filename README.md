@@ -8,10 +8,10 @@
   <img src="https://img.shields.io/badge/Ruby%20on%20rails-red?style=for-the-badge&logo=rubyonrails"/>
 </a>
 <a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.postgresql.org/">
-  <img src="https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Postgresql-red?style=for-the-badge&logo=postgresql"/>
 </a>
 
 <h2>Redes:</h2>
