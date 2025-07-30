@@ -15,9 +15,11 @@
 </a>
 
 <h2>Redes:</h2>
+<div style="display:flex; justify-items:center; ">
 <a href="https://www.linkedin.com/in/vitormiguelrosaportela/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
 </a>
 <a href="https://alemao.tech/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Portfolio-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
 </a>
+</div>
