@@ -1,8 +1,7 @@
-## Hi there 👋
+<h1>Sobre Mim</h1>
 
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on Small Projects
-- 🤔 I’m looking for help with Type/JavaScript and Ruby
-- 📫 My Portfolio: <a href='https://alemao.tech'> My WebSite</a>
-- 😄 Pronouns: He/Him
+<h2>Atualmente aprendendo:</h2>
+<a href="https://www.ruby-lang.org/pt/">
+  https://img.shields.io/badge/Ruby%20on%20rails-red?style=for-the-badge&logo=ruby
+</a>
 
