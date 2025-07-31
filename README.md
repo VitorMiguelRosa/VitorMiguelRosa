@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.postgresql.org/">
-  <img src="https://img.shields.io/badge/Postgresql-red?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Postgresql-red?style=for-the-badge&logo=postgresql&logoColor=f5f5f5"/>
 </a>
 
 <h2>Redes:</h2>
