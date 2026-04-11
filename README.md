@@ -1,6 +1,6 @@
 <h1>Sobre Mim</h1>
 
-![VitorMiguelRosa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMiguelRosa&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMiguelRosa"/>
 
 <h2>Minha Stack  Atual:</h2>
 <a href="https://www.ruby-lang.org/pt/">
