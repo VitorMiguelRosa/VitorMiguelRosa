@@ -1,7 +1,4 @@
 <h1>Sobre Mim</h1>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMiguelRosa"/>
-
 <h2>Minha Stack  Atual:</h2>
 <a href="https://www.ruby-lang.org/pt/">
   <img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby"/>
@@ -23,11 +20,4 @@
 <a href="https://www.linkedin.com/in/vitormiguelrosaportela/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href="https://alemao.tech/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
-</a>
 </div>
-
-<h2>Estudando:</h2>
- <img align="center" src="https://img.shields.io/badge/java-07316a.svg?logo=openjdk&style=for-the-badge" target="_blank">
- <img align="center" src="https://img.shields.io/badge/CSharp-07316a.svg?logo=dotnet&style=for-the-badge" target="_blank">
